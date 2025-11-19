@@ -6,6 +6,7 @@ namespace SocietyMS.Models
     {
 
         [Key]
+
         public  int transfer_Id { get; set; }
 
         public int Date {  get; set; }
